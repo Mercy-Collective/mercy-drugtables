@@ -75,5 +75,5 @@ exports['qb-target']:AddTargetModel(CokeTable, {
 })
 ```
 
-## Add data.entity to the selectTarget NUI Callback
+## Add data.entity to the selectTarget NUI Callback of the qb-target resource
 ![target](https://user-images.githubusercontent.com/40138067/201529870-19100ebb-f6b2-4e82-becb-aa88854dd30c.png)
