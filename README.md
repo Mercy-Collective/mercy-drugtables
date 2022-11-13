@@ -74,3 +74,6 @@ exports['qb-target']:AddTargetModel(CokeTable, {
     distance = 1.5
 })
 ```
+
+## Add data.entity to the selectTarget NUI Callback
+![target](https://user-images.githubusercontent.com/40138067/201529870-19100ebb-f6b2-4e82-becb-aa88854dd30c.png)
