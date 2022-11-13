@@ -9,7 +9,7 @@ This script is made for the QB Framework, if you need any help please join our [
 [YOUTUBE](https://www.youtube.com/watch?v=MA_XWJnGLs0)
 
 ## Table Models
-
+```
 local MethTable = {
     `v_ret_ml_tableb`,
 }
@@ -73,3 +73,4 @@ exports['qb-target']:AddTargetModel(CokeTable, {
     job = {"all"},
     distance = 1.5
 })
+```
